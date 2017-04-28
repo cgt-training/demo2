@@ -1,0 +1,11 @@
+.logout_button {
+  background-color: transparent;
+  border: 0 none;
+  margin-top: 15px;
+}
+.c_btn {
+  text-align: right;
+}
+#permissionassign-child > label {
+  width: 50%;
+}
